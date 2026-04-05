@@ -1,1 +1,2 @@
 - https://www.coursera.org/learn/arduino-platform
+- https://www.coursera.org/learn/packt-arduino-for-beginners-2023-complete-course-n0axt
